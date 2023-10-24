@@ -5,4 +5,4 @@
 
 ### Contact Me
 - LinkedIn: [@HongyingYue](https://www.linkedin.com/in/hongying-yue-64602263/)
-- Email: yuehongyingyhy@163.com
+- Email: yuehongyingyhy@163.com; yuehongyingyhy@gmail.com
