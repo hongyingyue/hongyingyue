@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Hongying Yue</h1>
-<h3 align="left">A Data Scientist Manager  </h3>
+<h3 align="left">A Data Scientist</h3>
 
 [![Hongying's github stats](https://github-readme-stats.vercel.app/api?username=hongyingyue&theme=vue)](https://github.com/hongyingyue)
 
